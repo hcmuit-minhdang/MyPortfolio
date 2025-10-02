@@ -37,19 +37,19 @@ header {
 }
 
 .btn {
-    background: #54b192;
-    color: #fff;
+    background: #006eff;
+    color: #ffffff;
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
 }
 
 .btn-outline {
-    border: 2px solid #54b192;
+    border: 2px solid #0026ff;
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
-    color: #54b192;
+    color: #004750;
 }
 
 .hero {
@@ -71,7 +71,7 @@ header {
 
 .socials a {
     margin-right: 10px;
-    color: #54b192;
+    color: #00c0fa;
     font-size: 20px;
 }
 
@@ -103,7 +103,7 @@ section {
 }
 
 .contact button {
-    background: #54b192;
+    background: #0042f7;
     color: #fff;
     border: none;
     padding: 10px;
